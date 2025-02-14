@@ -3,7 +3,9 @@ body {
     overflow: hidden;
     width: 100%;
     box-sizing: border-box;
+    background-color: brown;
 }
+
 
 /* Adding background image to right side */
 .background-Right {
